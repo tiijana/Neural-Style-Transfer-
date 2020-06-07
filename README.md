@@ -4,6 +4,7 @@ Implementation of neural style transfer for faculty project.
 By Tijana Kostic and Nikolina Trudic (https://github.com/nikolinatrudic)
 
 References:
+
 https://towardsdatascience.com/neural-style-transfer-tutorial-part-1-f5cd3315fa7f 
 
 https://arxiv.org/abs/1508.06576 
